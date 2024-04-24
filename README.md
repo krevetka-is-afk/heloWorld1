@@ -18,3 +18,8 @@ dsds| sdd| \t dfdfd
 -----
 ### Test braches
 now let's write smth about my study process how i struggles ) 
+- ок
+- ok
+[ ] dfd
+[] fd
+[x] dfd
